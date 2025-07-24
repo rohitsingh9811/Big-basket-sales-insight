@@ -1,7 +1,7 @@
 # Big-basket-sales-insight
 BUSINESS REQUIREMENT
 To conduct a comprehensive analysis of Big-basket sales performance, customer satisfaction, and inventory distribution to
-identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
+identify key insights and opportunities for optimization using various KPIs and visualizations in Excel.
 KPI's Requirements
 1. Total Sales: The overall revenue generated from all items sold.
 2. Average Sales: The average revenue per sale.
